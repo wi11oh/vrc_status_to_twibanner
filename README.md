@@ -1,2 +1,4 @@
 # vrc_status_to_twibanner
 ツイッターのバナーに今のステータスを表示します　apiが死んだので使えませんの供養上げ
+
+pyスクリプトと同じ階層にbanner.pngの名前で背景画像(1000*500推奨)を置いておくと吹き出しステータスその他情報を追加加工した画像を /RVS2TB.Resources/sended.png と保存して twitter-APIに流して自動でバナーを変更します
